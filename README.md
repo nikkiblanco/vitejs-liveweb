@@ -1,4 +1,4 @@
-# My Web App
+# Live app
 This is a Vite project that serves as a template for building modern web applications.
 
 - [Installation]
