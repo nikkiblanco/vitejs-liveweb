@@ -4,7 +4,6 @@ import { useNavigate, useParams } from "react-router-dom";
 
 const LiveVideo = () => {
     const APP_ID = import.meta.env.VITE_APP_ID;
-    console.log(APP_ID, "JELLO");
     const { channelName } = useParams();
 
     const [activeConnection, setActiveConnection] = useState(true);
